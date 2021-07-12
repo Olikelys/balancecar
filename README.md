@@ -2,7 +2,8 @@
 
 #### 介绍
 平衡车代码+MATLAB上位机代码
-![Image text](https://gitee.com/cuitsj/balancecar/blob/master/MATLABGUI/cargui2/for_redistribution_files_only/splash.png)
+
+![] (https://gitee.com/cuitsj/balancecar/blob/master/MATLABGUI/cargui2/for_redistribution_files_only/splash.png)
 
 #### 软件架构
 软件架构说明
