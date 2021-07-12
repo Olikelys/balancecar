@@ -4,7 +4,7 @@
 平衡车代码+MATLAB上位机代码
 本来是想做一个小车只需采集并发送数据，接收并执行simulink的命令，用simulink来做姿态解算和PID平衡控制的项目，但是在调试了三天之后以失败告终，主要原因是蓝牙模块的传输速度太慢了，所以就转而求其次，用matlab写了个上位机做姿态显示并且发送一些指令控制小车前进后退，当然也可以用手机蓝牙串口发送指令来控制。
 
-![1] (https://gitee.com/cuitsj/balancecar/blob/master/sch.png)
+![1](https://gitee.com/deepcomm/PSTR17R5B/raw/master/png/sweep.png)
 
 #### 软件架构
 1. 上位机的代码和exe程序在MATLABGUI文件夹。
