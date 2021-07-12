@@ -23,7 +23,8 @@
 7.  由于小车做了拿起保护，必须要将小车平放保持Pitch和Roll在0度左右两秒才能启动。
 
 #### 硬件原理图
-	![1](https://gitee.com/cuitsj/balancecar/raw/master/png/sch.png)
+
+![1](https://gitee.com/cuitsj/balancecar/raw/master/png/sch.png)
 
 #### 特技
 
