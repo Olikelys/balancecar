@@ -6,6 +6,7 @@
 
 
 ![1](https://gitee.com/cuitsj/balancecar/blob/master/png/sch.png)
+![2](https://gitee.com/deepcomm/PSTR17R5B/raw/master/png/drg.png)
 
 #### 软件架构
 1. 上位机的代码和exe程序在MATLABGUI文件夹。
